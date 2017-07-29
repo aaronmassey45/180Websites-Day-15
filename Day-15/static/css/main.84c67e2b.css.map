@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,QACE,aACA,eAAiB,CAEnB,OACE,iBAAmB,CAErB,OACE,eAAiB","file":"static/css/main.84c67e2b.css","sourcesContent":[".navbar {\r\n  padding: 15px;\r\n  border-radius: 0;\r\n}\r\n.label {\r\n  margin-right: 10px;\r\n}\r\n.panel {\r\n  margin-top: 10px;\r\n}\r\n\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
